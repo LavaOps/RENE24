@@ -7,7 +7,10 @@ Linsey Kitt, Myra B. Cohen,MorphQ++: A Reproducibility Study of Metamorphic Test
 
 This repository contains:
 
-1. The seven new transformations (.py programs)
+1. Six new transformations 
+   resetCircuit.py, initializeCircuit.py, copyCircuit.py, toQpy.py, addBarrier.py,changeTranspilationBackend.py
+2. One extension transformation
+   toQasm.py
 2. A full (text) log of one of the three 48 hour runs
    (log_one_run.tar.gz).  Use gzip and tar to extract this file. 
 3. The data base (qfl.db.gz) for the same run. This can be used to
