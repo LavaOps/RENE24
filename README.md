@@ -1,4 +1,4 @@
-# morphq_reproduce
+# MORPHQ++ Artifacts
 
 Artifacts for RENE 2024 Workshop paper
 
